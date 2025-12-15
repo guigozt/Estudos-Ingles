@@ -1,0 +1,13 @@
+Capital letters:
+->  Usadas para começo de frases ou nomes (substativos)
+-   A
+-   D
+-   J
+-   E
+
+Small letters:
+->  Usadas no restante das frases
+-   a
+-   d
+-   j
+-   e
