@@ -1,0 +1,9 @@
+How do you spell it?
+
+-   John: What's "livro" in english?
+-   Jane: It's "book"
+-   John: How do you spell it?
+-   Jane: B-o-o-k  
+    ->  Quando tem duas letras iguais em sequência: double
+        ->  Ex: double o
+

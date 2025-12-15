@@ -1,0 +1,26 @@
+A - Som: Ei ->  Angel
+B - Som: Bi ->  Banana
+C - Som: Ci ->  Car
+D - Som: Di ->  Disc
+E - Som: I ->   Elephant
+F - Som: Éfi -> Family
+G - Som: Gi ->  Garege
+H - Som: Eiti ->    Helicopter
+I - Som: Ai ->  Industry
+J - Som: Jei -> Joker
+K - Som: Ki -> Kid
+L - Som: El -> Lion
+M - Som: Em ->  Man
+N - Som: En ->  No
+O - Som: Ou ->  Object
+P - Som: Pi ->  Pen
+Q - Som: Qiu -> Quiz
+R - Som: Ar ->  Rat
+S - Som: Éssi -> Salt
+T - Som: Ti ->  Tiger
+U - Som: Iu ->  Umbrella
+V - Som: Vi ->  Voice
+W - Som: Double iu ->   Wallat
+X - Som: Exi -> Xerox
+Y - Som: Uai -> Yes
+Z - Som: Zi ->  Zebra

@@ -1,0 +1,30 @@
+Introductions
+
+Introducing yourself:
+->   Hi (Oi)
+->   Hello (Olá)
+->   I am
+    -   I'm
+->   My name is 
+    -   My name's
+->  Nice to meet you (Muito prazer)
+->  Glad to meet you
+->  Pleased to meet you
+->  It's a pleasure to meet you
+
+Ex:
+    Hi, i am Guilherme. What's your name?
+    My name is Giulia
+    Nice to meet you Giulia
+    Nice to meet you too, Guilherme
+
+Introducing other people
+->  John, this is Sarah
+->  Sarah, this is John
+
+Exemplo:
+    a - Hi Mike! good morning
+    b - Hello Bill, good morning
+    a - Mike, let me introduce ypu tomy friend, Ted
+    b - Nice to meet you Ted
+    c - It's a pleasure to meet you Mike
