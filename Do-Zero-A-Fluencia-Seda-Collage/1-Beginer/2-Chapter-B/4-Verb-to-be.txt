@@ -1,0 +1,25 @@
+Full form:
+
+ +  I am John
+ +  You are Paul
+
+ -  I am not John
+ -  You are not Paul
+
+Contraction form:
+ 
+ +  I'm John
+ +  You're Paul
+
+ -  I'm not John
+ -  You're not / You aren't Paul  
+
+---------------------------------
+
+Afirmativa:
+    +   You are John
+
+* Desloca o "are" para o começo da frase
+
+Interrogativa:
+    ?   Are you John?

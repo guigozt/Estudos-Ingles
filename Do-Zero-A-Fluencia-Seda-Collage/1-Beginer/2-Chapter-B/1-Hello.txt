@@ -1,0 +1,18 @@
+1ª Situation:
+
+  - Harry: Are you Roberta?
+  - Carol: No, I'm not, I'm Carol, and you're Harry, right?
+  - Harry: Yes, I am, very good
+
+2ª Situation:
+
+-   John: Hi, I'm John! What's your name?
+-   Paul: I'm Paul! Nice to meet you!
+-   John: Nice to meet you
+
+3ª Situation:
+
+-   John: What's your number?
+-   Paul: 9812-34567
+-   John: OK, goodbay!
+-   Paul: Bye, See you on Monday!

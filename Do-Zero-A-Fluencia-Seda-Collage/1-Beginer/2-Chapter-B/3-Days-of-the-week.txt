@@ -1,0 +1,7 @@
+1 - Sunday ->   Domingo
+2 - Monday ->   Segunda
+3 - Tuesday ->  Terça
+4 - Wednesday -> Quarta
+5 - Thursday ->  Quinta
+6 - Friday ->   Sexta
+7 - Saturday -> Sábado
